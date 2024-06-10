@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-datetime": "^2.1.2",
+    "node-telegram-bot-api": "^0.66.0"
+
+  },
+  "scripts": {
+    "run-python": "python read_bgmi.py"
+  }
+}

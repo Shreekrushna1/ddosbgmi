@@ -1,0 +1,560 @@
+UserID: 5732663537 | Time: 2024-06-09 01:32:46.696757 | Command: /bgmi | Target: 20.204.188.47 | Port: 10429 | Time: 180
+Username: @prateek_rana755
+Target: 20.204.188.47
+Port: 10429
+Time: 180
+
+UserID: 5732663537 | Time: 2024-06-09 01:36:33.182126 | Command: /bgmi | Target: 20.204.39.56 | Port: 12897 | Time: 180
+Username: @prateek_rana755
+Target: 20.204.39.56
+Port: 12897
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 01:38:10.226871 | Command: /bgmi | Target: 20.219.141.37 | Port: 18328 | Time: 299
+Username: UserID: -1002196164125
+Target: 20.219.141.37
+Port: 18328
+Time: 299
+
+UserID: -1002196164125 | Time: 2024-06-09 01:39:03.073604 | Command: /bgmi | Target: 20.219.141.37 | Port: 18328 | Time: 299
+Username: UserID: -1002196164125
+Target: 20.219.141.37
+Port: 18328
+Time: 299
+
+UserID: -1002196164125 | Time: 2024-06-09 01:43:08.048200 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: 5732663537 | Time: 2024-06-09 01:43:47.513643 | Command: /bgmi | Target: 20.204.188.47 | Port: 10429 | Time: 180
+Username: @prateek_rana755
+Target: 20.204.188.47
+Port: 10429
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 01:48:55.697720 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: -1002196164125 | Time: 2024-06-09 01:49:49.314630 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: -1002196164125 | Time: 2024-06-09 01:53:27.617255 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: -1002196164125 | Time: 2024-06-09 01:57:54.373970 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: 5732663537 | Time: 2024-06-09 01:58:34.466765 | Command: /bgmi | Target: 4.213.65.121 | Port: 13230 | Time: 180
+Username: @prateek_rana755
+Target: 4.213.65.121
+Port: 13230
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 01:59:39.931145 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: 5732663537 | Time: 2024-06-09 02:01:20.642131 | Command: /bgmi | Target: 4.213.65.121 | Port: 12302 | Time: 180
+Username: @prateek_rana755
+Target: 4.213.65.121
+Port: 12302
+Time: 180
+
+UserID: 5732663537 | Time: 2024-06-09 02:07:38.903876 | Command: /bgmi | Target: 4.213.65.121 | Port: 74537 | Time: 280
+UserID: -1002196164125 | Time: 2024-06-09 02:09:10.826397 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: -1002196164125 | Time: 2024-06-09 02:14:33.790944 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: 5732663537 | Time: 2024-06-09 02:20:50.529777 | Command: /bgmi | Target: 4.213.65.121 | Port: 37366 | Time: 180
+Username: @prateek_rana755
+Target: 4.213.65.121
+Port: 37366
+Time: 180
+
+UserID: 5732663537 | Time: 2024-06-09 02:28:55.971398 | Command: /bgmi | Target: 4.213.65.121 | Port: 63563 | Time: 180
+Username: @prateek_rana755
+Target: 4.213.65.121
+Port: 63563
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 02:39:02.713129 | Command: /bgmi | Target: 4.213.65.121 | Port: 74647 | Time: 180
+Username: UserID: -1002196164125
+Target: 4.213.65.121
+Port: 74647
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 02:39:27.399758 | Command: /bgmi | Target: 4.213.65.121 | Port: 73773 | Time: 180
+Username: UserID: -1002196164125
+Target: 4.213.65.121
+Port: 73773
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 02:39:44.255845 | Command: /bgmi | Target: 4.213.65.121 | Port: 77373 | Time: 1000
+Username: UserID: -1002196164125
+Target: 4.213.65.121
+Port: 77373
+Time: 1000
+
+UserID: -1002196164125 | Time: 2024-06-09 02:53:38.524289 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 100
+Username: UserID: -1002196164125
+Target: 4.213.65.121
+Port: 73637
+Time: 100
+
+UserID: -1002196164125 | Time: 2024-06-09 02:54:14.296755 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: UserID: -1002196164125
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: -1002196164125 | Time: 2024-06-09 03:01:36.270306 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: UserID: -1002196164125
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: 5732663537 | Time: 2024-06-09 03:45:19.308623 | Command: /bgmi | Target: 4.213.65.121 | Port: 73733 | Time: 180
+Username: @prateek_rana755
+Target: 4.213.65.121
+Port: 73733
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 03:59:14.214329 | Command: /bgmi | Target: 20.204.39.56 | Port: 46632 | Time: 180
+Username: UserID: -1002196164125
+Target: 20.204.39.56
+Port: 46632
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-09 04:32:29.698271 | Command: /bgmi | Target: 20.219.161.180 | Port: 24745 | Time: 60
+Username: UserID: -1002196164125
+Target: 20.219.161.180
+Port: 24745
+Time: 60
+
+UserID: 5732663537 | Time: 2024-06-09 04:45:13.720327 | Command: /bgmi | Target: 20.204.18.99 | Port: 73737 | Time: 180
+Username: @prateek_rana755
+Target: 20.204.18.99
+Port: 73737
+Time: 180
+
+UserID: 701327388 | Time: 2024-06-09 05:04:53.964476 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: @ShreekrushnaShinde
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: 701327388 | Time: 2024-06-09 06:13:45.939032 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: @ShreekrushnaShinde
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: 5732663537 | Time: 2024-06-09 06:14:08.872170 | Command: /bgmi | Target: 52.172.5.70 | Port: 73776 | Time: 180
+Username: @prateek_rana755
+Target: 52.172.5.70
+Port: 73776
+Time: 180
+
+UserID: 5732663537 | Time: 2024-06-09 06:31:42.524560 | Command: /bgmi | Target: 20.235.149.2 | Port: 12634 | Time: 120
+Username: @prateek_rana755
+Target: 20.235.149.2
+Port: 12634
+Time: 120
+
+UserID: 701327388 | Time: 2024-06-09 06:39:22.895472 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: @ShreekrushnaShinde
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: 701327388 | Time: 2024-06-09 06:49:46.792844 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: @ShreekrushnaShinde
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: 701327388 | Time: 2024-06-09 06:50:16.326771 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: @ShreekrushnaShinde
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: 701327388 | Time: 2024-06-09 06:51:24.347803 | Command: /bgmi | Target: 4.213.65.121 | Port: 73637 | Time: 80
+Username: @ShreekrushnaShinde
+Target: 4.213.65.121
+Port: 73637
+Time: 80
+
+UserID: 701327388 | Time: 2024-06-10 15:43:36 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:43:37 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:44:52 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:45:43 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:47:50 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:48:30 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:49:24 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:49:49 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:50:51 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:52:01 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 15:52:01 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:52:18 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 15:53:43 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 16:25:53 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 16:25:53 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 16:26:28 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 16:28:05 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 16:28:18 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 16:28:18 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 16:28:28 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: -1002196164125 | Time: 2024-06-10 16:28:29 | Command: /bgmi | Target: 20.235.51.208 | Port: 15966 | Time: 120
+Username: UserID: -1002196164125
+Target: 20.235.51.208
+Port: 15966
+Time: 120
+
+UserID: 701327388 | Time: 2024-06-10 16:29:30 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: -1002196164125 | Time: 2024-06-10 16:49:07 | Command: /bgmi | Target: 20.235.17.222 | Port: 16432 | Time: 420
+Username: UserID: -1002196164125
+Target: 20.235.17.222
+Port: 16432
+Time: 420
+
+UserID: -1002196164125 | Time: 2024-06-10 16:49:08 | Command: /bgmi | Target: 20.235.17.222 | Port: 16432 | Time: 420
+UserID: -1002196164125 | Time: 2024-06-10 16:49:08 | Command: /bgmi | Target: 20.235.17.222 | Port: 16432 | Time: 420
+Username: UserID: -1002196164125
+Target: 20.235.17.222
+Port: 16432
+Time: 420
+
+Username: UserID: -1002196164125
+Target: 20.235.17.222
+Port: 16432
+Time: 420
+
+UserID: -1002196164125 | Time: 2024-06-10 16:50:26 | Command: /bgmi | Target: 20.198.110.203 | Port: 15824 | Time: 240
+Username: UserID: -1002196164125
+Target: 20.198.110.203
+Port: 15824
+Time: 240
+
+UserID: 701327388 | Time: 2024-06-10 16:52:52 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 16:53:39 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: -1002196164125 | Time: 2024-06-10 16:55:42 | Command: /bgmi | Target: 20.235.89.104 | Port: 25829 | Time: 240
+Username: UserID: -1002196164125
+Target: 20.235.89.104
+Port: 25829
+Time: 240
+
+UserID: 701327388 | Time: 2024-06-10 17:20:37 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 17:20:37 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 17:20:37 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:21:34 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:22:14 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:24:16 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:24:39 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: -1002196164125 | Time: 2024-06-10 17:27:19 | Command: /bgmi | Target: 20.198.74.118 | Port: 25516 | Time: 180
+Username: UserID: -1002196164125
+Target: 20.198.74.118
+Port: 25516
+Time: 180
+
+UserID: -1002196164125 | Time: 2024-06-10 17:27:20 | Command: /bgmi | Target: 20.198.74.118 | Port: 25516 | Time: 180
+Username: UserID: -1002196164125
+Target: 20.198.74.118
+Port: 25516
+Time: 180
+
+UserID: 701327388 | Time: 2024-06-10 17:29:28 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:29:56 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:30:16 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: -1002196164125 | Time: 2024-06-10 17:30:24 | Command: /bgmi | Target: 52.172.14.175 | Port: 11756 | Time: 180
+Username: UserID: -1002196164125
+Target: 52.172.14.175
+Port: 11756
+Time: 180
+
+UserID: 701327388 | Time: 2024-06-10 17:31:05 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 17:31:05 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:36:52 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:39:39 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 17:39:39 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:40:02 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:40:46 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:42:08 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:43:29 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:44:11 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+UserID: 701327388 | Time: 2024-06-10 17:44:11 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:45:11 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:47:57.890879 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:49:21.449582 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 17:50:53.653050 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 18:00:33.069875 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
+UserID: 701327388 | Time: 2024-06-10 18:00:44.467699 | Command: /bgmi | Target: 20.198.104.230 | Port: 25350 | Time: 10
+Username: @ShreekrushnaShinde
+Target: 20.198.104.230
+Port: 25350
+Time: 10
+
